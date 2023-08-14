@@ -12,6 +12,10 @@
 - useRef
 - useContext
 
+## External Dependencies
+
+- Firebase - Realtime Database
+
 ## Notes
 
 - `props.children` to bring enclosed elements into custom components
